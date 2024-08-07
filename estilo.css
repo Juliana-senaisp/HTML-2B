@@ -1,0 +1,8 @@
+h1 {
+    /* O color troca a cor do texto */
+    color: blue;
+    /*o font-size muda o tamanho do texto*/
+    font-size: 50px; 
+    /*o background-color muda a cor de fundo*/
+    background-color: green;
+}
